@@ -1,5 +1,5 @@
 # World-Of-Games
-World Of Games Voliume 2
+World Of Games Volume 2
 
 Using:
   * Docker
